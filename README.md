@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ce6c8be-688c-49b8-887c-360ff979a989" />### SYNCHRONOUS-UP-COUNTER
+
 
 **AIM:**
 
