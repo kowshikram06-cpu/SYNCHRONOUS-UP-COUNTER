@@ -70,6 +70,6 @@ RegisterNumber:25018630
 
 
 
-**RESULTS**
+**RESULTS**/
 Thus the implement 4 bit synchronous up counter and validate functionality is successfully executed.
 
