@@ -66,10 +66,15 @@ RegisterNumber:25018630
 
 
 **TRUTH TABLE**
+
+
+
 ![WhatsApp Image 2025-12-10 at 11 23 21_fbc71f93](https://github.com/user-attachments/assets/64d3edcb-db01-45f3-b2cf-da5aac39283b)
 
 
 
-**RESULTS**/
+**RESULTS**
+
+
 Thus the implement 4 bit synchronous up counter and validate functionality is successfully executed.
 
